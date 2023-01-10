@@ -1,0 +1,26 @@
+
+.nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.link {
+  text-decoration: none;
+  text-align: center;
+  box-shadow: inset 0px -1px 0px #2f2f37;
+}
+
+.link_active {
+  text-decoration: none;
+  text-align: center;
+  box-shadow: inset 0px -2px 0px #4c4cff;
+}
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.wrapper {
+ height: 664px;
+  overflow-y: scroll;
+}
