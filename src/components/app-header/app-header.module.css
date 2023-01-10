@@ -1,0 +1,31 @@
+.header {
+  max-width: 1232px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wrapp {
+  display: flex;
+  align-items: center;
+}
+
+.menu_container {
+  display: flex;
+}
+
+.logo {
+  width: 290px;
+  height: 40px;
+}
+
+/* .title {
+  font-family: 'Spectral', Arial, sans-serif;
+  font-size: 32px;
+  line-height: 1;
+  font-weight: 700;
+  margin: 0 0 20px;
+} */
